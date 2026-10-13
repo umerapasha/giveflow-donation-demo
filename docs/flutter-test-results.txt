@@ -1,0 +1,40 @@
+00:00 +0: loading /workspace/sites/umera-giveflow/test/api_contract_test.dart
+00:00 +0: /workspace/sites/umera-giveflow/test/api_contract_test.dart: Flutter HTTP adapter completes a real FastAPI donation
+00:00 +0 ~1: /workspace/sites/umera-giveflow/test/api_contract_test.dart: Flutter adapter reconciles real API timeout without duplicate
+00:00 +0 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: (setUpAll)
+00:00 +0 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +1 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +2 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +3 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +4 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +5 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +6 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +7 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +8 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +9 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +10 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +11 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +12 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +13 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +14 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +15 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +16 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +17 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +18 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +19 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +20 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +21 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +22 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +23 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +24 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:00 +25 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: desktop amount screen renders cleanly
+00:01 +26 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: mobile amount screen has no layout exception
+00:01 +27 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: invalid amount blocks review
+00:01 +28 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: valid donation reaches confirmation and success
+00:02 +29 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: timeout screen exposes reconciliation rather than resubmit
+00:02 +30 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: mobile review remains usable with large text
+00:02 +31 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: compact mobile screen scrolls to the donation action
+00:02 +32 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: sample code import updates amount and cause
+00:02 +33 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: completed donation appears in activity
+00:03 +34 ~2: /workspace/sites/umera-giveflow/test/ui_test.dart: (tearDownAll)
+00:03 +34 ~2: All tests passed!
